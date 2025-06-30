@@ -4,6 +4,10 @@
 
 This repository contains a project on fish species image classification using deep learning techniques. The complete code is implemented in a Jupyter notebook available 
 
+## About Dataset:
+
+You can see my dataset from here: https://data.mendeley.com/datasets/8r24222wcc/2
+
 ## Project Description
 
 This project performs image classification on a fish dataset, involving:
