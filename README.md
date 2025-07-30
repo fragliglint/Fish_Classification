@@ -6,7 +6,7 @@ This repository contains a project on fish species image classification using de
 
 ## About Dataset:
 
-You can see my dataset from here: https://data.mendeley.com/datasets/8r24222wcc/2
+You can see my dataset from here: https://www.kaggle.com/datasets/siamabir/fish-classification-dataset
 
 ## Project Description
 
